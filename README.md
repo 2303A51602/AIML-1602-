@@ -6,7 +6,7 @@
 
 #[lab-6](https://github.com/2303A51602/AIML-1602-/edit/main/README.md)\
 #[lab-8](https://github.com/2303A51602/AIML-1602-/blob/main/AIML_assignment_8.ipynb)\
-
+#[lab-9](https://github.com/2303A51602/AIML-1602-/blob/main/AIML_assignment_9.ipynb)
 
 
 #[project-1](https://github.com/2303A51602/AIML-1602-/blob/main/project1(predict_people_personility).ipynb)
